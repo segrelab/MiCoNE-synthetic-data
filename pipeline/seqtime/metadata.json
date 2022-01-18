@@ -1,0 +1,19 @@
+{
+    "publication": {
+        "authors": [
+            {
+                "email": "dkishore@bu.edu",
+                "name": "Dileep Kishore"
+            }
+        ],
+        "date": "2021-11-24",
+        "pubmed_id": "1234"
+    },
+    "description": "Synthetic interaction data - seqtime",
+    "host": "None",
+    "condition": "Synthetic",
+    "location": "None",
+    "experimental_metadata": {
+        "sequencing": "16S"
+    }
+}
